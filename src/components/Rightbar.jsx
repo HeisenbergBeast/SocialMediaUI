@@ -96,7 +96,7 @@ import {
                   variant="body2"
                   color="text.primary"
                 >
-                  Priyanka
+                  Trevor
                 </Typography>
                 {" — I'll be in your neighborhood doing errands this…"}
               </React.Fragment>
