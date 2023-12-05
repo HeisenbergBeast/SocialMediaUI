@@ -24,7 +24,7 @@ const Post = () => {
             <MoreVert />
           </IconButton>
         }
-        title="Jeevitesh Sinha"
+        title="Sneh Pathak"
         subheader="September 14, 2022"
       />
       <CardMedia
@@ -35,7 +35,7 @@ const Post = () => {
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
-          Sundar photossssss
+          Photos
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
